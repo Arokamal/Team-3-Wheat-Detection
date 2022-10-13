@@ -1,5 +1,5 @@
 # Team-3-Wheat-Detection
-Wheat Detection mini project, for Omdena Algeria Chapter 2022 
+First Challenge: Wheat Detection mini project, given by Omdena Algeria Chapter 2022 
 
 🌾Wheat Detection🌾
 
