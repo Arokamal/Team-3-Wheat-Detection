@@ -23,5 +23,7 @@ Searching for methods and algorithms - Nirmit Shah & Abhijeet Pundkar
 
 Implementation of EDA - Arokamal Sethy, Nirmit Shah & Abhijeet Pundkar
 
+Implementation of model and prediction - Arokamal Sethy
+
 Presentation & Documentation - Arokamal Sethy, Moumni Samir , Nirmit
 Shah & Abhijeet Pundkar
